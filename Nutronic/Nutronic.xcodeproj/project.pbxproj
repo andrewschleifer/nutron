@@ -231,6 +231,7 @@
 				INFOPLIST_FILE = "Nutronic-Info.plist";
 				INSTALL_PATH = "$(HOME)/Applications";
 				PRODUCT_NAME = Nutronic;
+				VALID_ARCHS = "i386 x86_64";
 			};
 			name = Debug;
 		};
@@ -245,6 +246,7 @@
 				INFOPLIST_FILE = "Nutronic-Info.plist";
 				INSTALL_PATH = "$(HOME)/Applications";
 				PRODUCT_NAME = Nutronic;
+				VALID_ARCHS = "i386 x86_64";
 			};
 			name = Release;
 		};
